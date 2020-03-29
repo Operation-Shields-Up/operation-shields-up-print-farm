@@ -4,7 +4,7 @@
 
 Q: What type of filament can I use?
 
-A: We accept PETG or PLA, Please no ABS.
+A: We prefer PETG but will accept PLA, Please no ABS.
 
 Q: What settings should I use when I slice the models?
 
