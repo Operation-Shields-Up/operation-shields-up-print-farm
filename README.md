@@ -18,4 +18,4 @@ A: Likely, please follow the repo and we will update the files as we adopt new v
 
 Q: How do I get in contact with you?
 
-A: Reach us through our website (https://www.opshieldsup.org)[https://www.opshieldsup.org]
+A: Reach us through our website [https://www.opshieldsup.org](https://www.opshieldsup.org)
