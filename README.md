@@ -1,5 +1,10 @@
 # Operation Shields UP
 
+## GUIDES
+
+- [Extrusion multiplier calibration](https://help.prusa3d.com/en/article/extrusion-multiplier-calibration_2257)
+
+
 ## FAQ
 
 Q: What type of filament can I use?
